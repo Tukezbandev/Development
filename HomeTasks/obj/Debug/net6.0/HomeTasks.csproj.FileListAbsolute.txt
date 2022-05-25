@@ -1,0 +1,15 @@
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\HomeTasks.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\HomeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\HomeTasks.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\HomeTasks.AssemblyInfo.cs
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\HomeTasks.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\bin\Debug\net6.0\HomeTasks.exe
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\bin\Debug\net6.0\HomeTasks.deps.json
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\bin\Debug\net6.0\HomeTasks.runtimeconfig.json
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\bin\Debug\net6.0\HomeTasks.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\bin\Debug\net6.0\HomeTasks.pdb
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\HomeTasks.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\refint\HomeTasks.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\HomeTasks.pdb
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\HomeTasks.genruntimeconfig.cache
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\HomeTasks\obj\Debug\net6.0\ref\HomeTasks.dll

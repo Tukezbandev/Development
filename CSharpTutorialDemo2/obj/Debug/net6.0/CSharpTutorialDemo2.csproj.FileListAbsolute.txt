@@ -1,0 +1,15 @@
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\bin\Debug\net6.0\CSharpTutorialDemo2.exe
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\bin\Debug\net6.0\CSharpTutorialDemo2.deps.json
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\bin\Debug\net6.0\CSharpTutorialDemo2.runtimeconfig.json
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\bin\Debug\net6.0\CSharpTutorialDemo2.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\bin\Debug\net6.0\CSharpTutorialDemo2.pdb
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\CSharpTutorialDemo2.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\CSharpTutorialDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\CSharpTutorialDemo2.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\CSharpTutorialDemo2.AssemblyInfo.cs
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\CSharpTutorialDemo2.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\CSharpTutorialDemo2.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\refint\CSharpTutorialDemo2.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\CSharpTutorialDemo2.pdb
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\CSharpTutorialDemo2.genruntimeconfig.cache
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpTutorialDemo2\obj\Debug\net6.0\ref\CSharpTutorialDemo2.dll

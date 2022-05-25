@@ -1,0 +1,15 @@
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\bin\Debug\net6.0\CSharpDemoIntro.exe
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\bin\Debug\net6.0\CSharpDemoIntro.deps.json
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\bin\Debug\net6.0\CSharpDemoIntro.runtimeconfig.json
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\bin\Debug\net6.0\CSharpDemoIntro.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\bin\Debug\net6.0\CSharpDemoIntro.pdb
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\CSharpDemoIntro.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\CSharpDemoIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\CSharpDemoIntro.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\CSharpDemoIntro.AssemblyInfo.cs
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\CSharpDemoIntro.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\CSharpDemoIntro.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\refint\CSharpDemoIntro.dll
+C:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\CSharpDemoIntro.pdb
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\CSharpDemoIntro.genruntimeconfig.cache
+c:\Users\info\OneDrive\Desktop\FolderOfTheFolders\ALL\TB\Development\CSharpDemoIntro\obj\Debug\net6.0\ref\CSharpDemoIntro.dll
